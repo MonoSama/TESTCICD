@@ -15,6 +15,6 @@ test('auto4', async ({ page }) => {
     // Interactuar con el interruptor (inputswitch)
     await page.locator('p-inputswitch span').click();
     
-    console.log("EL TEST SE EJECUTO CORRECTAMENTE")
+    console.log("EL TEST SE EJECUTO CORRECTAMENTE AAA")
 });
 
